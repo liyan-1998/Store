@@ -1,2 +1,2 @@
-# Store
-菜鸟学习日记
+# Storehouse
+Rookie learning diary
